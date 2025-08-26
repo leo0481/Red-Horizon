@@ -9,6 +9,7 @@ This is a comprehensive security assessment framework designed specifically for 
 ```
 OpenAI-Red-Teaming/
 ├── main.ipynb                     # Jupyter notebook version with detailed usage examples
+├── Data                           # Data for RAG
 ├── utils/                         # Core utility modules
 │   ├── agent.py                   # Implementation of various attack agents
 │   ├── gpt.py                     # GPT-OSS-20B model interface and semantic tracker
